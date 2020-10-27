@@ -1,6 +1,8 @@
 ## 🥳 Boostrap v5 Sidebar Navigation
 
-### [Live Preview Here 😯🚀]()
+### [Live Preview Here 😯🚀](https://chandu4221.github.io/bootstrap-v5-sidebar-navigation/)
+
+![Preview](./repoImages/preview.gif)
 
 List of Plugins Used
 
